@@ -6,5 +6,5 @@
 
 后面会考虑电脑端的。
 
-[官方公告].（https://gitee.com/huangzhouen/gg）
+[官方公告].（https://gitee.com/huangzhouen/gg）.
 
